@@ -8,7 +8,7 @@
 
 Welcome to the first workshop of .init. This will serve as a guide with setup of your machine along with providing some technical reading that will assit you on the day.
 
-Today's mission is to learn something that will expand your understanding. Something that you not necessarily work with each day.
+Today's mission is to learn something that will expand your understanding. Something that you do not necessarily work with each day.
 
 We will build an AR app that suggests food recipes. The technology involved is the interesting part of the learning.
 
