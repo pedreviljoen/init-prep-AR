@@ -90,4 +90,8 @@ You will notice the image needs to be base64 encoded. We have done this for you 
 
 https://developer.mozilla.org/en-US/docs/Web/API/WindowBase64/Base64_encoding_and_decoding
 
-For interested readers, you can also do text/label detection with Google Vision. An interesting use case is to extract data of an universal object, ie a credit card. A cool thought would be, how to manipulate the data in the response to extract the info of a credit card.
+For interested readers, you can also do text/label detection with Google Vision. An interesting use case is to extract data of an universal object, ie a credit card. A cool thought would be, how to manipulate the data in the response to extract the info of a credit card. You can read more about text/label detection here:
+
+https://cloud.google.com/vision/docs/ocr
+
+https://cloud.google.com/vision/docs/labels
