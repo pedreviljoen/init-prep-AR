@@ -52,7 +52,11 @@ Run the following to check:
 npm -v
 ```
 
-If your terminal returns a version number, you are all set.
+If your terminal returns a version number, you are all set. If not you can run the following command:
+
+```shell
+brew install -g npm
+```
 
 ## Ngrok
 
