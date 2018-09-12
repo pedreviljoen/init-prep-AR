@@ -54,6 +54,12 @@ npm -v
 
 If your terminal returns a version number, you are all set.
 
+## Ngrok
+
+If you don't have Ngrok, you can download and install it here:
+
+https://ngrok.com/download
+
 ## React Native Command Line Interface
 
 Next step is to install the React Native CLI, run the following command:
