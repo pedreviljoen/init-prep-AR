@@ -99,7 +99,7 @@ If you decided to use VS Code as your code editor, some useful plugins are:
 
 # Pre- Reading
 
-The following material will give you valuable context of the technologies that we will be using on the day. Work through this content to ensure that you have the necessary foundations to take the most out of the the day.  
+The following material will give you valuable context of the technologies that we will be using on the day. Work through this content to ensure that you have the necessary foundations to take the most out of the day.  
 
 ## ViroReact
 
