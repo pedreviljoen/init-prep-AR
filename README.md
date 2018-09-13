@@ -105,23 +105,24 @@ The following material will give you valuable context of the technologies that w
 
 ViroReact is a developer platform for rapidly building AR/VR applications using React Native. Whether you are looking to build a new AR/VR application, or add AR/VR features to your existing applications, the ViroReact platform enables you to create powerful mobile AR/VR applications using a single code base. We will be working with the AR component of Viro during the make day. 
 
-This link will provide you with an overview of ViroReact and its application:
-https://docs.viromedia.com/v2.6.1
+This link will provide you with an overview of ViroReact and its application, [here](https://docs.viromedia.com/v2.6.1)
 
-The next link points to important documentation on the fundamental elements involved in ReactViro AR. Read through it and specifically pay attention to the theory of a) camera tracking and b) AR Components.
-https://docs.viromedia.com/v2.6.1/docs/augmented-reality-ar
+The next link points to important documentation on the fundamental elements involved in ReactViro AR. Read through it [here](https://docs.viromedia.com/v2.6.1/docs/augmented-reality-ar) and specifically pay attention to the theory of:
 
-The most important AR component to get familiar with before the workshop are: 
+* Camera Tracking. 
+* AR Components.
 
-ViroARSceneNavigator: https://docs.viromedia.com/v2.6.1/docs/viroarscenenavigator
+The most important AR components to get familiar with before the workshop are: 
 
-ViroARScene: https://docs.viromedia.com/v2.6.1/docs/viroarscene
+[ViroARSceneNavigator](https://docs.viromedia.com/v2.6.1/docs/viroarscenenavigator)
 
-ViroARPlane: https://docs.viromedia.com/v2.6.1/docs/viroarplane
+[ViroARScene](https://docs.viromedia.com/v2.6.1/docs/viroarscene)
 
-ViroText: https://docs.viromedia.com/v2.6.1/docs/virotext2
+[ViroARPlane](https://docs.viromedia.com/v2.6.1/docs/viroarplane)
 
-Viro3DObject: https://docs.viromedia.com/v2.6.1/docs/viro3dobject
+[ViroText](https://docs.viromedia.com/v2.6.1/docs/virotext2)
+
+[Viro3DObject](https://docs.viromedia.com/v2.6.1/docs/viro3dobject)
 
 ## Google's Vision API
 
@@ -133,7 +134,5 @@ We have taken care of most of the heavy lifting for you in the project. However,
 
 You will notice the image needs to be base64 encoded. We have done this for you in the project, but you can read up about base64 encoding on [mdn](https://developer.mozilla.org/en-US/docs/Web/API/WindowBase64/Base64_encoding_and_decoding).
 
-For interested readers, you can also do text/label detection with Google Vision. An interesting use case is to extract data of an universal object, ie a credit card. A cool thought would be, how to manipulate the data in the response to extract the info of a credit card. You can read more about [text](https://cloud.google.com/vision/docs/ocr)/label detection [here](https://cloud.google.com/vision/docs/labels).
-
-https://cloud.google.com/vision/docs/labels
+For interested readers, you can also do text/label detection with Google Vision. An interesting use case is to extract data of an universal object, ie a credit card. A cool thought would be, how to manipulate the data in the response to extract the info of a credit card. You can read more about [text](https://cloud.google.com/vision/docs/ocr)/[label](https://cloud.google.com/vision/docs/labels) detection.
 
