@@ -22,7 +22,7 @@ But first we will need to setup our machines, to make sure we can develop on the
 
 # Setup
 
-Open up your terminal for the next part.
+Open up your terminal for the next part. We recommend using VS Code, a simple code editor. But you can use any editor of your choice.
 
 ## Node & Watchman
 
@@ -81,6 +81,18 @@ npm install -g react-viro-cli
 ```
 
 & that is it with setup!
+
+## Useful plugins
+
+If you decided to use VS Code as your code editor, some useful plugins are:
+
+* JS Hacker Pack
+* Color Highlight
+* Bracket Pair Colorizer
+* Auto Close Tag
+* Auto Rename Tag
+* Guides
+* VS Live Share: If you guys want to code with multiple machines
 
 # ViroReact
 
