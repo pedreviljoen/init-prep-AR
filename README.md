@@ -71,7 +71,7 @@ If you don't have Ngrok, you can download and install it [here](https://ngrok.co
 Next step is to install the React Native CLI, run the following command:
 
 ```shell
-npm install -g react-native-cli
+$ npm install -g react-native-cli
 ```
 
 ## ViroReact Command Line Interface
@@ -79,7 +79,7 @@ npm install -g react-native-cli
 Next step is to install the ViroReact CLI, run the following command:
 
 ```shell
-npm install -g react-viro-cli
+$ npm install -g react-viro-cli
 ```
 
 & that is it with setup!
