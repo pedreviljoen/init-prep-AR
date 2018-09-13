@@ -99,7 +99,7 @@ If you decided to use VS Code as your code editor, some useful plugins are:
 
 # Pre- Reading
 
-The following material will give you valuable context of the technologies that we will be using on the day. Work through this context to ensure that you have the necessary foundations for the days work.  
+The following material will give you valuable context of the technologies that we will be using on the day. Work through this content to ensure that you have the necessary foundations to take the most out of the the day.  
 
 ## ViroReact
 
@@ -113,16 +113,15 @@ https://docs.viromedia.com/v2.6.1/docs/augmented-reality-ar
 
 The most important AR component to get familiar with before the workshop are: 
 
-ViroARSceneNavigator
-https://docs.viromedia.com/v2.6.1/docs/viroarscenenavigator
-ViroARScene
-https://docs.viromedia.com/v2.6.1/docs/viroarscene
-ViroARPlane
-https://docs.viromedia.com/v2.6.1/docs/viroarplane
-ViroText
-https://docs.viromedia.com/v2.6.1/docs/virotext2
-Viro3DObject
-https://docs.viromedia.com/v2.6.1/docs/viro3dobject
+ViroARSceneNavigator: https://docs.viromedia.com/v2.6.1/docs/viroarscenenavigator
+
+ViroARScene: https://docs.viromedia.com/v2.6.1/docs/viroarscene
+
+ViroARPlane: https://docs.viromedia.com/v2.6.1/docs/viroarplane
+
+ViroText: https://docs.viromedia.com/v2.6.1/docs/virotext2
+
+Viro3DObject: https://docs.viromedia.com/v2.6.1/docs/viro3dobject
 
 ## Google's Vision API
 
