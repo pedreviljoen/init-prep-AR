@@ -136,10 +136,21 @@ You will notice the image needs to be base64 encoded. We have done this for you 
 
 For interested readers, you can also do text/label detection with Google Vision. An interesting use case is to extract data of an universal object, ie a credit card. A cool thought would be, how to manipulate the data in the response to extract the info of a credit card. You can read more about [text](https://cloud.google.com/vision/docs/ocr)/[label](https://cloud.google.com/vision/docs/labels) detection.
 
-# AR tutorial
+# Viro React Tutorial
 
-This AR tutorial is a good excercise to work through before the workshop. The tutorial can be found [here](https://github.com/pedreviljoen/init-prep-AR-tutorial), checkout a branch and play around with a possible solution. If you get stuck, our implementation of a solution can be found [here](https://github.com/pedreviljoen/init-prep-AR-tutorial-solution).
+The prep tutorial consists of three quick parts, all with the primary objective of introducing you to some required foundations of Viro React. Part one and two is crucial to finish before the workshop, and not doing so will make things difficult for you on the day. Part three will enable you to do more than just learn on the day.
 
-Give it a bash, and we look forward to building cool tech on the day.
+Start with the tutorial as early as possible, so that you can ask questions if there are any aspects that you struggle with.  
+
+## Part 1
+This part requires you to complete the basic [Quick Start tutorial](https://docs.viromedia.com/v2.10.0/docs/quick-start) by Viro React. The “Viro Media Quick Start Tutorial”  video (top of the page) is very useful, but you can also follow the step on the page. Steps 1, 2 and 3 should already have been covered if you did the technical setup correctly. Complete the tutorial and move on to part two.
+
+## Part 2
+For part two it is required that you complete the [“How to build an interactive AR app in 5 mins w/ React Native & Viro AR”](https://blog.viromedia.com/how-to-build-an-interactive-ar-app-in-5-mins-w-react-native-viro-ar-e420147e1612) tutorial by Danny Moon. The article explains the steps required.
+
+## Part 3
+This part requires of you to render a 3D Text object, pass state and functions using props, and introduces you to the project structure we will be using on the day. The repo containing the task is found [here](https://github.com/pedreviljoen/init-prep-AR-tutorial) - clone it to begin. The ReadMe explains the tasks required of you, while comments point out the holes that you need to plug for each step. The solution code is found [in this repo](https://github.com/pedreviljoen/init-prep-AR-tutorial-solution)..but we do encourage you to first try it out yourself before looking at the solution.
+
+Give it a bash! We look forward to joining you in building cool tech on the day.
 
 Au revoir
