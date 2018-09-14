@@ -136,3 +136,10 @@ You will notice the image needs to be base64 encoded. We have done this for you 
 
 For interested readers, you can also do text/label detection with Google Vision. An interesting use case is to extract data of an universal object, ie a credit card. A cool thought would be, how to manipulate the data in the response to extract the info of a credit card. You can read more about [text](https://cloud.google.com/vision/docs/ocr)/[label](https://cloud.google.com/vision/docs/labels) detection.
 
+# AR tutorial
+
+This AR tutorial is a good excercise to work through before the workshop. The tutorial can be found [here](https://github.com/pedreviljoen/init-prep-AR-tutorial), checkout a branch and play around with a possible solution. If you get stuck, our implementation of a solution can be found [here](https://github.com/pedreviljoen/init-prep-AR-tutorial-solution).
+
+Give it a bash, and we look forward to building cool tech on the day.
+
+Au revoir
